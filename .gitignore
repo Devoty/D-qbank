@@ -26,3 +26,8 @@ hs_err_pid*
 target
 /src/main/resources/application-local.yml
 /src/main/java/com/devoty/question/bank/service/impl/DataSourceServiceLocalImpl.java
+
+.classpath
+.factorypath
+.project
+/.settings
